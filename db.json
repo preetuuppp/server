@@ -1,4 +1,89 @@
 {
-  "users": [],
-  "appointments": []
-}
+    "users": [
+      {
+        "username": "Ritesh",
+        "email": "riteshshuklagem@gmail.com",
+        "password": "123456",
+        "isDoctor": true,
+        "id": 1
+      },
+      {
+        "username": "rrr",
+        "email": "rr@gmail.com",
+        "password": "cityslicka",
+        "isDoctor": true,
+        "id": 2
+      },
+      {
+        "username": "abs",
+        "email": "ab@gmail.com",
+        "password": "565656",
+        "isDoctor": true,
+        "id": 3
+      },
+      {
+        "username": "wjiru9w",
+        "email": "reer@gmail.com",
+        "password": "565635",
+        "isDoctor": true,
+        "id": 4
+      }
+    ],
+    "appointments": [
+      {
+        "id": 1,
+        "name": "Jane Doe",
+        "image": "https://example.com/doctor-image.jpg",
+        "specialization": "Dermatologist",
+        "experience": 10,
+        "location": "Los Angeles",
+        "date": "2023-04-05T12:00:00.000Z",
+        "slots": 2,
+        "fee": 150
+      },
+      {
+        "id": 3,
+        "name": "Mark Johnson",
+        "image": "https://example.com/doctor-image.jpg",
+        "specialization": "Pediatrician",
+        "experience": 5,
+        "location": "Chicago",
+        "date": "2023-04-06T09:30:00.000Z",
+        "slots": 1,
+        "fee": 100
+      },
+      {
+        "id": 4,
+        "name": "Mark Johnson",
+        "image": "https://example.com/doctor-image.jpg",
+        "specialization": "Pediatrician",
+        "experience": 5,
+        "location": "Chicago",
+        "date": "2023-04-06T09:30:00.000Z",
+        "slots": 1,
+        "fee": 100
+      },
+      {
+        "id": 5,
+        "name": "Mark Johnson",
+        "image": "https://example.com/doctor-image.jpg",
+        "specialization": "Pediatrician",
+        "experience": 5,
+        "location": "Chicago",
+        "date": "2023-04-06T09:30:00.000Z",
+        "slots": 1,
+        "fee": 100
+      },
+      {
+        "id": 6,
+        "name": "Mark Johnson",
+        "image": "https://example.com/doctor-image.jpg",
+        "specialization": "Pediatrician",
+        "experience": 5,
+        "location": "Chicago",
+        "date": "2023-04-06T09:30:00.000Z",
+        "slots": 1,
+        "fee": 100
+      }
+    ]
+  }
